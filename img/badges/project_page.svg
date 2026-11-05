@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="236" height="64" viewBox="0 0 236 64" role="img" aria-label="Project Page">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#E83F91"/>
+      <stop offset="100%" stop-color="#FE9E13"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="white" stop-opacity=".10"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="236" height="64" rx="20" fill="url(#bg)"/>
+  <rect x="0" y="0" width="236" height="64" rx="20" fill="url(#sheen)"/>
+  <svg x="17" y="19" width="26" height="26" viewBox="0 0 24 24" aria-hidden="true">
+    <g fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9" fill="white" fill-opacity="0.15"/><path d="M3 12h18M12 3c-3.3 2.5-5 5.5-5 9s1.7 6.5 5 9c3.3-2.5 5-5.5 5-9s-1.7-6.5-5-9zM5.2 7.5h13.6M5.2 16.5h13.6"/></g>
+  </svg>
+  <text x="60" y="40.5" fill="white" font-family="Arial, Helvetica, 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif" font-size="24" font-weight="750" letter-spacing=".1">Project Page</text>
+</svg>
