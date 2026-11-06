@@ -28,7 +28,7 @@
 </div>
 
 <p align="center">
-  <strong>Every SVG Object. Under Your Control.</strong><br>
+  <strong>Generate the Scene. Control Every Object.</strong><br>
   Move · Rotate · Scale · Delete · Reorder · Modify
 </p>
 
