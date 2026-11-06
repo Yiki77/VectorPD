@@ -27,11 +27,9 @@
 </p>
 </div>
 
-## 🎬 Interactive SVG Editing
-
 <p align="center">
-  Move, rotate, scale, and reorder independently editable SVG objects.<br>
-  <strong>Click any demo to try the interactive editor on our project page.</strong>
+  <strong>Every SVG Object. Under Your Control.</strong><br>
+  Move · Rotate · Scale · Delete · Reorder · Modify
 </p>
 
 <p align="center">
@@ -40,17 +38,6 @@
   <a href="https://yiki77.github.io/SketchDirector/"><img src="https://raw.githubusercontent.com/Yiki77/VectorPD/main/img/gif/duck.gif" width="32%" alt="Ducks Demo"></a>
 </p>
 
-<p align="center">
-  <sub><b>Chef</b> · <b>City</b> · <b>Ducks</b></sub>
-</p>
-
-<p align="center">
-  <a href="https://yiki77.github.io/SketchDirector/">
-    <strong>▶ Try Interactive Editing ↗</strong>
-  </a>
-</p>
-
----
 
 ## 💡 Overview
 
