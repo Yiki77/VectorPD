@@ -33,7 +33,7 @@
 <p align="center">
   <img
     src="img/slogan.svg"
-    width="300"
+    width="500"
     alt="Generate the Scene. Control Every Object."
   />
 </p>
@@ -53,21 +53,31 @@
 **SketchDirector** is an agentic framework for **text-guided multi-concept scene sketch generation**. Given a textual scene description, SketchDirector first generates independently editable object-level SVG sketch assets, then organizes them into a spatially coherent composition through **agentic layout reasoning**, and finally enhances sketch details through **detail refinement**.
 
 <p align="center">
-  <img src="./img/Teaser.jpg" alt="SketchDirector Teaser" width="100%" />
-</p>
-Unlike approaches that treat an entire scene as a single indivisible image, SketchDirector represents each scene as a collection of vector objects composed of cubic Bézier curves. This representation supports **object-level manipulation, executable layout adjustments, and object- and path-level editing**.
-
-<p align="center">
   <img src="./img/main_framework.jpg" alt="SketchDirector framework" width="100%" />
 </p>
 
-**Key Features:**
+<h2>✨ Key Features</h2>
 
-- **Independently editable vector assets:** Represent visual concepts in a scene as separate SVG objects.
-- **Agentic layout reasoning:** Progressively construct and correct scene compositions through a Plan–Execute–Verify–Correct loop.
-- **Self-evolving memory:** Leverage short-term failure memory and long-term successful experiences to guide layout correction.
-- **Structure-aware detail refinement:** Improve local sketch details and overall visual quality while preserving object structures and spatial layouts.
-
+<table width="100%">
+  <tr>
+    <td align="center" valign="middle" width="25%" height="210">
+      <h3>🎨<br>Editable Vector Assets</h3>
+      <sub>Represent visual concepts in a scene as independently editable SVG objects.</sub>
+    </td>
+    <td align="center" valign="middle" width="25%" height="210">
+      <h3>🧭<br>Agentic Layout Reasoning</h3>
+      <sub>Progressively construct and correct scene compositions through a Plan–Execute–Verify–Correct loop.</sub>
+    </td>
+    <td align="center" valign="middle" width="25%" height="210">
+      <h3>🧠<br>Self-Evolving Memory</h3>
+      <sub>Leverage short-term failures and long-term experiences to guide layout correction.</sub>
+    </td>
+    <td align="center" valign="middle" width="25%" height="210">
+      <h3>✨<br>Detail Refinement</h3>
+      <sub>Improve fine-grained sketch details and overall visual quality while preserving object structures and spatial layouts.</sub>
+    </td>
+  </tr>
+</table>
 
 ## 📊 MCSketch8K Dataset
 
