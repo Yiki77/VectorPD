@@ -30,11 +30,10 @@
   </a>
 </p>
 </div>
-
 <p align="center">
   <img
     src="img/slogan.svg"
-    width="820"
+    width="300"
     alt="Generate the Scene. Control Every Object."
   />
 </p>
@@ -48,10 +47,14 @@
   <a href="https://yiki77.github.io/SketchDirector/"><img src="https://raw.githubusercontent.com/Yiki77/VectorPD/main/img/gif/duck.gif" width="32%" alt="Ducks Demo"></a>
 </p>
 
+
 ## 💡 Overview
 
 **SketchDirector** is an agentic framework for **text-guided multi-concept scene sketch generation**. Given a textual scene description, SketchDirector first generates independently editable object-level SVG sketch assets, then organizes them into a spatially coherent composition through **agentic layout reasoning**, and finally enhances sketch details through **detail refinement**.
 
+<p align="center">
+  <img src="./img/Teaser.jpg" alt="SketchDirector Teaser" width="100%" />
+</p>
 Unlike approaches that treat an entire scene as a single indivisible image, SketchDirector represents each scene as a collection of vector objects composed of cubic Bézier curves. This representation supports **object-level manipulation, executable layout adjustments, and object- and path-level editing**.
 
 <p align="center">
@@ -64,6 +67,7 @@ Unlike approaches that treat an entire scene as a single indivisible image, Sket
 - **Agentic layout reasoning:** Progressively construct and correct scene compositions through a Plan–Execute–Verify–Correct loop.
 - **Self-evolving memory:** Leverage short-term failure memory and long-term successful experiences to guide layout correction.
 - **Structure-aware detail refinement:** Improve local sketch details and overall visual quality while preserving object structures and spatial layouts.
+
 
 ## 📊 MCSketch8K Dataset
 
