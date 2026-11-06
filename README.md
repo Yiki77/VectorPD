@@ -28,11 +28,10 @@
   <a href="https://huggingface.co/datasets/yiki77/MCSketch8K">
     <img src="img/badges/dataset.svg" height="48">
   </a>
+  <br>
+  <img src="img/interactive_tip.svg" width="800" alt="Interactive SVG editing" />
 </p>
 </div>
-<p align="center" style="color: #7028E8;">
-  Click and drag individual objects to experience object-level sketch editing.
-</p>
 <p align="center">
   <a href="https://yiki77.github.io/SketchDirector/"><img src="https://raw.githubusercontent.com/Yiki77/VectorPD/main/img/gif/chicken.gif" width="32%" alt="Chef Demo"></a>
   <a href="https://yiki77.github.io/SketchDirector/"><img src="https://raw.githubusercontent.com/Yiki77/VectorPD/main/img/gif/city.gif" width="32%" alt="City Demo"></a>
