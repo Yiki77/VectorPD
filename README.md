@@ -58,26 +58,13 @@
 
 <h2>✨ Key Features</h2>
 
-<table width="100%">
-  <tr>
-    <td align="center" valign="middle" width="25%" height="210">
-      <h3>🎨<br>Editable Vector Assets</h3>
-      <sub>Represent visual concepts in a scene as independently editable SVG objects.</sub>
-    </td>
-    <td align="center" valign="middle" width="25%" height="210">
-      <h3>🧭<br>Agentic Layout Reasoning</h3>
-      <sub>Progressively construct and correct scene compositions through a Plan–Execute–Verify–Correct loop.</sub>
-    </td>
-    <td align="center" valign="middle" width="25%" height="210">
-      <h3>🧠<br>Self-Evolving Memory</h3>
-      <sub>Leverage short-term failures and long-term experiences to guide layout correction.</sub>
-    </td>
-    <td align="center" valign="middle" width="25%" height="210">
-      <h3>✨<br>Detail Refinement</h3>
-      <sub>Improve fine-grained sketch details and overall visual quality while preserving object structures and spatial layouts.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="img/key_features.svg"
+    alt="SketchDirector Key Features"
+    width="100%"
+  />
+</p>
 
 ## 📊 MCSketch8K Dataset
 
