@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="380" viewBox="0 0 1600 380">
+ <title id="title">SketchDirector Key Features</title>
+ <desc id="description">Four rounded pastel cards: Editable Vector Assets, Agentic Layout Reasoning, Self-Evolving Memory, and Detail Refinement.</desc>
+ <defs>
+  <linearGradient id="badge" x1="0" x2="1" y1="0" y2="1">
+   <stop offset="0" stop-color="#F6B27E"/>
+   <stop offset="1" stop-color="#EA9A60"/>
+  </linearGradient>
+  <linearGradient id="bg-01" x1="0" x2="0" y1="0" y2="1">
+   <stop offset="0" stop-color="#ECEBFA"/>
+   <stop offset="1" stop-color="#F7F6FF"/>
+  </linearGradient>
+  <linearGradient id="bg-02" x1="0" x2="0" y1="0" y2="1">
+   <stop offset="0" stop-color="#E7F4F8"/>
+   <stop offset="1" stop-color="#F2FBFD"/>
+  </linearGradient>
+  <linearGradient id="bg-03" x1="0" x2="0" y1="0" y2="1">
+   <stop offset="0" stop-color="#EDE9F4"/>
+   <stop offset="1" stop-color="#F7F4FB"/>
+  </linearGradient>
+  <linearGradient id="bg-04" x1="0" x2="0" y1="0" y2="1">
+   <stop offset="0" stop-color="#FBF2E1"/>
+   <stop offset="1" stop-color="#FFFAEF"/>
+  </linearGradient>
+ </defs>
+ <!-- Warm accent lines, keeping the academic paper-style heading. -->
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_4" transform="translate(0 -128)">
+   <rect fill="url(#bg-01)" height="350" id="svg_5" rx="34" width="372" x="32" y="140"/>
+   <rect fill="url(#badge)" height="43" id="svg_6" rx="13" width="63" x="58" y="162"/>
+   <text fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="27" font-style="italic" font-weight="700" id="svg_7" text-anchor="middle" x="89.5" y="194">01</text>
+   <text fill="#262830" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" id="svg_8" text-anchor="middle" x="218" y="239">Editable Vector</text>
+   <text fill="#262830" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" id="svg_8_line2" text-anchor="middle" x="218" y="277">Assets</text><rect fill="#EDA36E" height="4" id="svg_9" rx="2" width="70" x="183" y="299"/>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_10" text-anchor="middle" x="218" y="350">Represent visual concepts</text>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_11" text-anchor="middle" x="218" y="377.5">in a scene as independently</text>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_12" text-anchor="middle" x="218" y="405">editable SVG objects.</text>
+  </g>
+  <g id="svg_13" transform="translate(0 -128)">
+   <rect fill="url(#bg-02)" height="350" id="svg_14" rx="34" width="372" x="420" y="140"/>
+   <rect fill="url(#badge)" height="43" id="svg_15" rx="13" width="63" x="446" y="162"/>
+   <text fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="27" font-style="italic" font-weight="700" id="svg_16" text-anchor="middle" x="477.5" y="194">02</text>
+   <text fill="#262830" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" id="svg_17" text-anchor="middle" x="606" y="239">Agentic Layout</text>
+   <text fill="#262830" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" id="svg_18" text-anchor="middle" x="606" y="277">Reasoning</text>
+   <rect fill="#EDA36E" height="4" id="svg_19" rx="2" width="70" x="571" y="299"/>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_20" text-anchor="middle" x="606" y="337">Progressively construct and</text>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_21" text-anchor="middle" x="606" y="364.5">correct scene compositions</text>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_22" text-anchor="middle" x="606" y="392">through a Plan–Execute–</text>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_23" text-anchor="middle" x="606" y="419.5">Verify–Correct loop.</text>
+  </g>
+  <g id="svg_24" transform="translate(0 -128)">
+   <rect fill="url(#bg-03)" height="350" id="svg_25" rx="34" width="372" x="808" y="140"/>
+   <rect fill="url(#badge)" height="43" id="svg_26" rx="13" width="63" x="834" y="162"/>
+   <text fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="27" font-style="italic" font-weight="700" id="svg_27" text-anchor="middle" x="865.5" y="194">03</text>
+   <text fill="#262830" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" id="svg_28" text-anchor="middle" x="994" y="239">Self-Evolving</text>
+   <text fill="#262830" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" id="svg_29" text-anchor="middle" x="994" y="277">Memory</text>
+   <rect fill="#EDA36E" height="4" id="svg_30" rx="2" width="70" x="959" y="299"/>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_31" text-anchor="middle" x="994" y="350">Leverage short-term failures</text>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_32" text-anchor="middle" x="994" y="377.5">and long-term experiences</text>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_33" text-anchor="middle" x="994" y="405">to guide layout correction.</text>
+  </g>
+  <g id="svg_34" transform="translate(0 -128)">
+   <rect fill="url(#bg-04)" height="350" id="svg_35" rx="34" width="372" x="1196" y="140"/>
+   <rect fill="url(#badge)" height="43" id="svg_36" rx="13" width="63" x="1222" y="162"/>
+   <text fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="27" font-style="italic" font-weight="700" id="svg_37" text-anchor="middle" x="1253.5" y="194">04</text>
+   <text fill="#262830" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" id="svg_38" text-anchor="middle" x="1382" y="239">Detail</text>
+   <text fill="#262830" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" id="svg_38_line2" text-anchor="middle" x="1382" y="277">Refinement</text><rect fill="#EDA36E" height="4" id="svg_39" rx="2" width="70" x="1347" y="299"/>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_40" text-anchor="middle" x="1382" y="337">Improve fine-grained sketch</text>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_41" text-anchor="middle" x="1382" y="364.5">details and overall visual</text>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_42" text-anchor="middle" x="1382" y="392">quality while preserving</text>
+   <text fill="#2A2B34" font-family="Arial, Helvetica, sans-serif" font-size="22.2" id="svg_43" text-anchor="middle" x="1382" y="419.5">spatial layouts.</text>
+  </g>
+ </g>
+</svg>
