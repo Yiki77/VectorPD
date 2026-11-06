@@ -1,32 +1,24 @@
 <?xml version="1.0"?>
-<svg width="1120" height="128" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<svg width="1120" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
  <title id="svg-title">Generate the Scene. Control Every Object.</title>
  <desc id="svg-desc">A bold italic research demo slogan in violet and navy, with a soft lavender underline and a fine multicolor divider.</desc>
  <defs>
-  <linearGradient id="underline" x1="0" x2="1" y1="0" y2="0">
-   <stop offset="0" stop-color="#17A77B" stop-opacity="0.7"/>
-   <stop offset="0.24" stop-color="#3D7FF3" stop-opacity="0.8"/>
-   <stop offset="0.48" stop-color="#8244EF" stop-opacity="0.85"/>
-   <stop offset="0.75" stop-color="#EC4E9A" stop-opacity="0.75"/>
-   <stop offset="1" stop-color="#FF9B1E" stop-opacity="0.7"/>
-  </linearGradient>
-  <linearGradient fx="1" fy="0" id="svg_8" x1="0" x2="1" y1="0" y2="0">
-   <stop id="jq_stop_9272" offset="0" stop-color="#7628e6"/>
-   <stop id="jq_stop_333" offset="0.98" stop-color="#ffac47" stop-opacity="1"/>
-  </linearGradient>
   <linearGradient id="svg_9">
    <stop id="jq_stop_9896" offset="0" stop-color="#7628e6"/>
    <stop id="jq_stop_7250" offset="1" stop-color="#ffad2b" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="svg_11" spreadMethod="pad">
+   <stop id="jq_stop_7403" offset="0" stop-color="#7628e6"/>
+   <stop id="jq_stop_8288" offset="1" stop-color="#ffb71c" stop-opacity="1"/>
   </linearGradient>
  </defs>
  <!-- Slightly irregular lilac highlight, not an extra button. -->
  <!-- Fine gradient rule between the slogan and editing actions. -->
  <g class="layer">
   <title>Layer 1</title>
-  <path d="m123,81c33.49,-3 81.86,4 136.84,-2c17.78,-2 36.38,-2 51.26,2l2.89,10c-53.74,-2 -99.22,1 -145.52,0l-42.17,1l-3.31,-11z" fill="#EDE5FF" id="svg_1" opacity="0.78"/>
-  <text fill="url(#svg_9)" font-family="Arial, Helvetica, sans-serif" font-size="44" font-style="italic" font-weight="800" id="svg_2" letter-spacing="-0.7" style="cursor: move;" x="125" y="77">Generate the Scene.</text>
-  <text fill="url(#svg_8)" font-family="Arial, Helvetica, sans-serif" font-size="44" font-style="italic" font-weight="800" id="svg_3" letter-spacing="-0.7" style="cursor: move;" transform="matrix(1 0 0 1 0 0)" x="548" y="77">Control Every Object.</text>
-  <rect fill="url(#underline)" height="2.5" id="svg_4" rx="1.25" width="710" x="195" y="212"/>
-  <path d="m531.1,79.85c33.49,-3 81.86,4 136.84,-2c17.78,-2 36.38,-2 51.26,2l2.89,10c-53.74,-2 -99.22,1 -145.52,0l-42.17,1l-3.31,-11z" fill="#EDE5FF" id="svg_5" opacity="0.78"/>
+  <path d="m85,47c33.49,-3 81.86,4 136.84,-2c17.78,-2 36.38,-2 51.26,2l2.89,10c-53.74,-2 -99.22,1 -145.52,0l-42.17,1l-3.31,-11z" fill="#EDE5FF" id="svg_1" opacity="0.78"/>
+  <text fill="url(#svg_9)" font-family="Arial, Helvetica, sans-serif" font-size="53.31" font-style="italic" font-weight="800" id="svg_2" letter-spacing="-0.7" transform="matrix(1 0 0 1 0 0)" x="59" y="50.35">Generate the Scene.</text>
+  <path d="m578.1,47.85c33.49,-3 81.86,4 136.84,-2c17.78,-2 36.38,-2 51.26,2l2.89,10c-53.74,-2 -99.22,1 -145.52,0l-42.17,1l-3.31,-11z" fill="#EDE5FF" id="svg_5" opacity="0.78" transform="matrix(1 0 0 1 0 0)"/>
+  <text fill="url(#svg_11)" font-family="Arial, Helvetica, sans-serif" font-size="51.5" font-style="italic" font-weight="800" id="svg_3" letter-spacing="-0.7" x="585" y="50.9">Control Every Object.</text>
  </g>
 </svg>
